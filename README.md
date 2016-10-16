@@ -19,3 +19,8 @@ Example to get top ten directories in "Library":
       1.19G	Library/Caches
       3.25G	Library/Mail
 
+Install
+-------
+
+go get github.com/sstark/dusage
+
